@@ -2,4 +2,7 @@
     color: red;
     text-align: center;
   }
-
+  .App{
+    border: solid 1px black;
+    max-width: 300vw;
+    }
